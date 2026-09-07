@@ -1,34 +1,101 @@
-# 👋 Hey, I'm Harsh Kumar
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🚀 Full Stack Developer | MERN Stack | Django | Open Source
+<!--                    HARSH KUMAR - GITHUB                         -->
 
-<p align="left">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 👋 Hey, I'm **Harsh Kumar**
+
+### 🚀 Full Stack Developer • MERN • Django • Python
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Django+%26+Python+Enthusiast;Backend+%26+API+Developer;Open+Source+Contributor;Building+Real-World+Solutions+%F0%9F%9A%80" />
+</p>
+
+<p>
   <a href="https://github.com/haxzh">
-    <img src="https://komarev.com/ghpvc/?username=haxzh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=haxzh&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
   </a>
   <a href="https://github.com/haxzh?tab=followers">
-    <img src="https://img.shields.io/github/followers/haxzh?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/haxzh?style=for-the-badge&logo=github&label=Followers" />
   </a>
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 
-I'm a **BCA graduate and Full Stack Developer** who enjoys building practical applications, solving real-world problems, and exploring modern web technologies.
+---
 
-* 🔭 Currently building **MERN & Django applications**
-* 🌱 Currently learning **DSA, MongoDB & Cloud Deployment**
-* 💻 Interested in **Full Stack Development, Backend Engineering & AI**
-* 👯 Open to collaborating on **Open Source & Full Stack projects**
-* 🧠 I enjoy turning ideas into **working software**
-* ⚡ Fun fact: I love solving real-world problems with code
+<img align="right" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 🧑‍💻 About Me
+
+Hi! I'm **Harsh Kumar**, a **BCA graduate and Full Stack Developer** passionate about building scalable, useful and user-friendly applications.
+
+I enjoy working across the stack — from designing responsive interfaces to building APIs, databases and deployment pipelines.
+
+```javascript
+const harsh = {
+    role: "Full Stack Developer",
+
+    stack: [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "Django",
+        "Python"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+    ],
+
+    interests: [
+        "Web Development",
+        "Backend Engineering",
+        "AI",
+        "Open Source"
+    ],
+
+    currentlyLearning: [
+        "DSA",
+        "System Design",
+        "Cloud",
+        "Docker"
+    ],
+
+    mindset: "Build → Learn → Improve 🚀"
+};
+```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ What I Do
 
-### 💻 Languages
+| 💻 Development                | 🧠 Problem Solving               |
+| ----------------------------- | -------------------------------- |
+| Build full-stack applications | Learn DSA & algorithms           |
+| Design REST APIs              | Optimize application performance |
+| Work with databases           | Debug complex problems           |
+| Deploy applications           | Learn scalable architectures     |
+
+| 🚀 Backend        | ☁️ DevOps |
+| ----------------- | --------- |
+| Node.js / Express | Docker    |
+| Django / Python   | Vercel    |
+| REST APIs         | Netlify   |
+| Authentication    | GitHub    |
+
+---
+
+# 🛠️ Tech Arsenal
+
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,java,php,html,css" />
@@ -37,7 +104,7 @@ I'm a **BCA graduate and Full Stack Developer** who enjoys building practical ap
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
@@ -52,155 +119,218 @@ I'm a **BCA graduate and Full Stack Developer** who enjoys building practical ap
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
-### ☁️ Tools & DevOps
+### ☁️ Tools & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,netlify" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 Employee Management System
+<div align="center">
+
+## 🏢 Employee Management System
 
 **React.js • Node.js • Express.js • MongoDB • Tailwind CSS**
 
-A full-stack employee management application with a modern interface and backend API architecture.
+A full-stack employee management platform designed to manage employees and organizational data through a modern web interface.
 
-🔗 **Repository:** [View Project](https://github.com/haxzh)
+**Highlights**
 
----
+`Authentication` • `REST API` • `CRUD Operations` • `MongoDB` • `Responsive UI`
 
-### 💬 Social Media Application
+<br>
+
+## 💬 Social Media Application
 
 **MERN • Socket.IO • JWT • bcrypt • Cloudinary**
 
-A full-stack social platform featuring:
+A full-stack social platform with real-time communication and social networking functionality.
 
-* 🔐 User authentication
-* 📝 Post creation
-* ❤️ Likes & comments
-* 👥 Follow / unfollow
-* 💬 Real-time chat
-* ☁️ Cloudinary media uploads
+**Features**
 
-🔗 **Repository:** [View Project](https://github.com/haxzh)
+`Authentication` • `Posts` • `Likes` • `Comments` • `Follow/Unfollow` • `Real-Time Chat` • `Cloudinary`
 
----
+<br>
 
-### 🏥 We Care Medical System
+## 🏥 We Care Medical System
 
 **Django • Python • MySQL**
 
-A web-based medical assistance system designed to provide users with an easy-to-use platform for accessing medical-related information.
+A web-based medical assistance platform focused on providing users with an accessible interface for medical-related information.
 
-🔗 **Repository:** [View Project](https://github.com/haxzh)
+**Stack**
 
----
+`Django` • `Python` • `MySQL` • `HTML` • `CSS`
 
-### 🛒 E-Commerce Platform
+<br>
+
+## 🛒 E-Commerce Platform
 
 **MERN Stack**
 
-Features include:
+A complete e-commerce application with user authentication, product browsing, filtering and shopping cart functionality.
 
-* 🔐 Authentication
-* 🛍️ Product browsing
-* 🔎 Product filtering
-* 🛒 Shopping cart
-* 👤 User management
+**Features**
 
-🔗 **Repository:** [View Project](https://github.com/haxzh)
+`Login/Signup` • `Products` • `Filtering` • `Cart` • `User Management`
+
+</div>
 
 ---
 
-## 🧠 Currently Learning
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=haxzh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxzh&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=haxzh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=haxzh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+|     Technology    |             Focus            |
+| :---------------: | :--------------------------: |
+|       🧩 DSA      | Algorithms & Problem Solving |
+|     🍃 MongoDB    |   Advanced Database Design   |
+|     🐳 Docker     |       Containerization       |
+|      ☁️ Cloud     |  Deployment & Infrastructure |
+| 🏗️ System Design |     Scalable Applications    |
+
+</div>
+
+---
+
+# 🎯 My 2026 Roadmap
 
 ```text
-DSA                 ███████░░░  70%
-MongoDB             ████████░░  80%
-Cloud Deployment    ██████░░░░  60%
-Docker              ██████░░░░  60%
-System Design       █████░░░░░  50%
+                 2026
+                   │
+        ┌──────────┼──────────┐
+        │          │          │
+       DSA       Backend     Cloud
+        │          │          │
+        ▼          ▼          ▼
+    Algorithms   APIs       Docker
+        │       Security     CI/CD
+        │          │          │
+        └──────────┼──────────┘
+                   │
+                   ▼
+            Production Apps
+                   │
+                   ▼
+             Open Source 🌍
 ```
 
----
+### Progress
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=haxzh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxzh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=haxzh&theme=tokyonight&hide_border=true" />
-</p>
+* [x] 🎓 Complete BCA
+* [x] 💻 Build Full Stack Projects
+* [x] ⚛️ Learn React
+* [x] 🟢 Learn Node.js
+* [x] 🐍 Learn Django
+* [ ] 🧠 Master DSA
+* [ ] 🏗️ Improve System Design
+* [ ] ☁️ Deploy more production applications
+* [ ] 🌍 Contribute regularly to Open Source
 
 ---
 
-## 🏆 GitHub Achievements
+# 💼 Open to Opportunities
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haxzh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
+I'm interested in opportunities related to:
 
----
+### `Full Stack Development`
 
-## 🎯 2026 Goals
+### `MERN Stack`
 
-* [x] Complete BCA 🎓
-* [x] Build Full Stack Projects 💻
-* [x] Learn MERN Stack 🚀
-* [ ] Master DSA 🧠
-* [ ] Improve System Design 🏗️
-* [ ] Deploy more production applications ☁️
-* [ ] Contribute more to Open Source 🌍
-* [ ] Become a stronger Backend Engineer ⚙️
+### `Django / Python`
+
+### `Backend Development`
+
+### `Software Engineering`
+
+If you're building something interesting, let's connect and create something awesome. 🚀
 
 ---
 
-## 💼 Open to Opportunities
+# 🌐 Connect With Me
 
-I'm currently interested in opportunities involving:
+<div align="center">
 
-**Full Stack Development • MERN • Django • Python • Backend Development • Software Engineering**
+<a href="https://linkedin.com/in/haxzh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-If you're working on something interesting, I'd love to connect and collaborate.
+<a href="https://portfoliohaxzh.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+<a href="mailto:harshshakya908435@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🌍 Let's Connect
+<a href="https://github.com/haxzh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="left">
-  <a href="https://linkedin.com/in/haxzh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfoliohaxzh.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:harshshakya908435@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 💡 Developer Quote
+<div align="center">
 
-> **"First, solve the problem. Then, write the code."**
+### 💡 Developer Philosophy
 
----
+> **"Build things that solve real problems."**
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<br>
 
-<p align="center">
-  <i>Let's build something amazing together.</i>
-</p>
+### ⭐ If you find my projects useful, consider giving them a star!
+
+<br>
+
+**Thanks for visiting my profile! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
